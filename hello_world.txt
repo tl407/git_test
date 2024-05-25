@@ -1,0 +1,5 @@
+Hello world, I am learning how to stage using git add. 
+I learned how to clone a repository from gitHub to my 
+computer. Git status allows me to see which files I created
+that have not been staged or if after adding, have
+succesfully been staged. 
